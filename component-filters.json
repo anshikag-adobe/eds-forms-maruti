@@ -74,7 +74,8 @@
       "text-input",
       "tnc",
       "wizard",
-      "range"
+      "range",
+      "image-card-component"
     ]
 >>>>>>> d76d8b8 (Initial commit)
   }
