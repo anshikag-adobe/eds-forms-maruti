@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+  url: https://author-p166722-e1787764.adobeaemcloud.com/bin/franklin.delivery/anshikag-adobe/eds-forms-maruti/main
+  type: "markup"
+  suffix: ".html"
