@@ -1126,6 +1126,9 @@ main .form form .item-add {
     border: 2px solid var(--theme-accent);
     padding: 10px 24px;
     font-size: 14px;
+    grid-column-start: 12;
+    grid-column-end: 12;
+    justify-self: end;
 }
 
 main .form form .item-add:hover {
@@ -1237,5 +1240,10 @@ html {
 
 ::-webkit-scrollbar-thumb:hover {
     background: var(--theme-primary);
+}
+
+button.item-remove {
+    grid-column: span-2 !important;
+    margin: 20px;
 }
 
