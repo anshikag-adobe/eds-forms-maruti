@@ -523,7 +523,8 @@ main .file-wrapper .file-description button::after{
 }
 
 main .form .button-wrapper button {
-    cursor:pointer
+    cursor:pointer;
+    margin-top: 10%;
 }
 
 main .form .button-wrapper button:hover {
