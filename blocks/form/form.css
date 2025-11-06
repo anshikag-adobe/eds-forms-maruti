@@ -273,11 +273,6 @@ main .form form fieldset > .checkbox-wrapper {
     margin-left: var(--form-field-gap);
 }
 
-main .form .radio-wrapper  label,
-main .form .checkbox-wrapper label {
-    flex-basis: calc(100% - 24px);
-}
-
 main .form fieldset.link .checkbox-wrapper label {
     flex-basis: unset;
 }
